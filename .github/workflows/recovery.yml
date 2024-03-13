@@ -4,9 +4,9 @@ on:
   workflow_dispatch:
     inputs:
       RECOVERY_URL:
-        description: 'https://fastupload.io/en/ZruPiA8gYnco/K2vuTcLrJvjCHib/jar3XXd6N32dD/recovery.img'
+        description: 'RECOVERY URL'
         required: true
-        default: 'https://transfer.sh/(RECOMMENDED)'
+        default: 'https://fastupload.io/V4WC2mt5YITK/K2vuTcLrJvjCHib/jar3XXd6N32dD/recovery.img'
 
 env:
   RECOVERY_URL: https://oshi.at/Rpjg
