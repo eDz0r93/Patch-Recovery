@@ -6,7 +6,7 @@ on:
       RECOVERY_URL:
         description: 'RECOVERY URL'
         required: true
-        default: 'https://fastupload.io/V4WC2mt5YITK/K2vuTcLrJvjCHib/jar3XXd6N32dD/recovery.img'
+        default: 'https://eu4.easyupload.io/download/bvhkrj/pt8hm6idt52r6ttxk4xrhvfp3qiyum2h'
 
 env:
   RECOVERY_URL: https://oshi.at/Rpjg
